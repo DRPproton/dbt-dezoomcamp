@@ -8,6 +8,7 @@ sources:
     tables:
       - name: yellow_taxi_data_19_20
       - name: green_taxi_data_19_20
+      - name: fhv-2019
 
 models:
   - name: stg_green_taxi_data_19_20
